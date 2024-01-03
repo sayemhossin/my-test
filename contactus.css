@@ -1,0 +1,21 @@
+.h2{ background-color: darkslategrey;
+    color: chartreuse;
+         text-align: center;
+    margin: 50pxpx 100px 0px;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 0px 0px 20px 20px; height: 50px; padding: 20px 0px 0px 0px;
+    }
+    
+    #p{
+        border: 10px solid black;
+    margin: 10px 500px 10px 500px;
+    background-image: url(blur.jpg);
+    background-size: cover;
+    color: antiquewhite;
+    box-shadow: 20px 20px 20px black;
+    }
+    #in{
+        font-size: 30px; 
+    }
+    
